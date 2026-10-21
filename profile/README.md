@@ -120,6 +120,7 @@ Merak ediyoruz, deniyoruz, sorun bulup tamir ediyoruz, üretiyoruz ve yaptığı
 - **2026-10-15** · RM-05 · ChessRun chessrun.app’te yayında, sıralama Cloudflare D1 üzerinde
 - **2026-10-12** · RM-04 · Muzzer: Gerber dışa aktarıldı, kart PCBWay’e sipariş edildi
 - **2026-10-10** · RM-03 · BlockingFocus firmware 0.3.5, kutu basıldı
+- **2026-10-06** · RM-06 · Panther Launcher 1.12.2.3 imzalandı, günlük kullanımda
 
 [Seyir defterinin tamamı →](https://remaker.ch/tr/#log)
 <!-- /seyir:tr -->
