@@ -19,6 +19,18 @@
 
 Wir sind neugierig, probieren aus, finden Fehler und reparieren sie, bauen und dokumentieren alles offen. Schaltpläne, Firmware, Gerber-Dateien, Stücklisten: alles hier.
 
+### Logbuch
+
+<!-- seyir:de -->
+- **2026-10-21** · Das erste Repo wurde auf GitHub hinzugefügt
+- **2026-10-15** · RM-05 · ChessRun online auf chessrun.app, Rangliste läuft auf Cloudflare D1
+- **2026-10-12** · RM-04 · Muzzer: Gerber exportiert, Platine bei PCBWay bestellt
+- **2026-10-10** · RM-03 · BlockingFocus Firmware 0.3.5, Gehäuse gedruckt
+- **2026-10-06** · RM-06 · Panther Launcher 1.12.2.3 signiert und im Alltag
+
+[Ganzes Logbuch →](https://remaker.ch/de/#log)
+<!-- /seyir:de -->
+
 ### Mitmachen
 
 Beitragen auf GitHub steht allen offen: einen Fehler melden, eine Korrektur oder eine neue Idee schicken ist für uns sehr wertvoll. Ein Beitrag allein macht dich aber nicht zum Mitglied des Kollektivs. Mitglied sein heisst, gemeinsam zu arbeiten und die Hausordnung mitzutragen.
@@ -54,6 +66,18 @@ Kundenarbeit gehört den Kundinnen und Kunden; sie entscheiden über die Lizenz.
 
 We are curious, we experiment, we find faults and repair them, we build, and we document everything openly. Schematics, firmware, Gerber files, bills of materials: all here.
 
+### Logbook
+
+<!-- seyir:en -->
+- **2026-10-21** · The first repository was added on GitHub
+- **2026-10-15** · RM-05 · ChessRun live on chessrun.app, leaderboard running on Cloudflare D1
+- **2026-10-12** · RM-04 · Muzzer: Gerber exported, board ordered at PCBWay
+- **2026-10-10** · RM-03 · BlockingFocus firmware 0.3.5, enclosure printed
+- **2026-10-06** · RM-06 · Panther Launcher 1.12.2.3 signed and in daily use
+
+[Full logbook →](https://remaker.ch/en/#log)
+<!-- /seyir:en -->
+
 ### Join
 
 Contributing on GitHub is open to everyone: reporting a bug, sending a fix or a new idea is very valuable to us. A contribution alone does not make you a member of the collective, though. Being a member means working together and standing behind the house rules.
@@ -88,6 +112,18 @@ Client work belongs to the client, who decides the licence.
 **Açık kaynak donanım ve kod, ilk prototipten çalışan ürüne. Zürih'ten bir maker topluluğu.**
 
 Merak ediyoruz, deniyoruz, sorun bulup tamir ediyoruz, üretiyoruz ve yaptığımız her şeyi açıkça belgeliyoruz. Şema, firmware, Gerber dosyaları, malzeme listesi: hepsi burada.
+
+### Seyir defteri
+
+<!-- seyir:tr -->
+- **2026-10-21** · GitHub da ilk repo eklendi.
+- **2026-10-15** · RM-05 · ChessRun chessrun.app’te yayında, sıralama Cloudflare D1 üzerinde
+- **2026-10-12** · RM-04 · Muzzer: Gerber dışa aktarıldı, kart PCBWay’e sipariş edildi
+- **2026-10-10** · RM-03 · BlockingFocus firmware 0.3.5, kutu basıldı
+- **2026-10-06** · RM-06 · Panther Launcher 1.12.2.3 imzalandı, günlük kullanımda
+
+[Seyir defterinin tamamı →](https://remaker.ch/tr/#log)
+<!-- /seyir:tr -->
 
 ### Katılmak
 
