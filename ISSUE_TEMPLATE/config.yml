@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Frage · Question · Soru"
+    url: https://github.com/reporemaker/.github/discussions/categories/q-a
+    about: "Fragen gehören in die Discussions · Questions go to Discussions · Sorular Discussions'a"
+  - name: "Sicherheitslücke · Security issue · Güvenlik açığı"
+    url: https://github.com/reporemaker/.github/blob/main/SECURITY.md
+    about: "Nicht öffentlich melden · Do not report publicly · Herkese açık bildirme"

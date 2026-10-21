@@ -1,0 +1,40 @@
+name: "Fehler · Bug · Hata"
+description: "Etwas funktioniert nicht · Something is broken · Bir şey çalışmıyor"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Deutsch, English oder Türkçe, wie es dir passt. · Write in whichever you like. · Hangisi rahatsa.
+        Sicherheitslücke? Kein öffentliches Issue: [hallo@remaker.ch](mailto:hallo@remaker.ch)
+  - type: textarea
+    id: gesehen
+    attributes:
+      label: "Was ist passiert? · What happened? · Ne oldu?"
+    validations:
+      required: true
+  - type: textarea
+    id: erwartet
+    attributes:
+      label: "Was hast du erwartet? · What did you expect? · Ne bekliyordun?"
+  - type: textarea
+    id: schritte
+    attributes:
+      label: "Wie lässt es sich wiederholen? · How to reproduce? · Nasıl tekrarlanır?"
+      placeholder: "1. …\n2. …\n3. …"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Version"
+      description: "Software-, Firmware- oder Platinenversion · software, firmware or board revision · yazılım, firmware ya da kart sürümü"
+      placeholder: "v1.0 · FW 0.3.5 · PCB 0.9.1"
+  - type: input
+    id: umgebung
+    attributes:
+      label: "Gerät / Browser / OS · Device / browser / OS · Cihaz / tarayıcı / işletim sistemi"
+  - type: textarea
+    id: mehr
+    attributes:
+      label: "Bilder, Logs · Screenshots, logs · Görsel, kayıt"

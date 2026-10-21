@@ -1,0 +1,22 @@
+name: "Vorschlag · Suggestion · Öneri"
+description: "Eine Idee oder Verbesserung · An idea or improvement · Bir fikir ya da iyileştirme"
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: "Deutsch, English oder Türkçe, wie es dir passt. · Write in whichever you like. · Hangisi rahatsa."
+  - type: textarea
+    id: idee
+    attributes:
+      label: "Was schlägst du vor? · What do you suggest? · Ne öneriyorsun?"
+    validations:
+      required: true
+  - type: textarea
+    id: warum
+    attributes:
+      label: "Wofür? · What for? · Ne işe yarar?"
+      description: "Welches Problem löst es, wem hilft es? · Which problem does it solve, who does it help? · Hangi sorunu çözer, kime yarar?"
+  - type: textarea
+    id: mithilfe
+    attributes:
+      label: "Willst du mithelfen? · Want to help build it? · Yapımında yer almak ister misin?"
