@@ -16,11 +16,11 @@
 ### Logbook
 
 <!-- seyir:en -->
-- **2026-10-23** · RM-05 · The Mihrace mode has been added to ChessRun
+- **2026-10-23** · ChessRun · The Mihrace mode has been added to ChessRun
+- **2026-10-22** · ChessRun · All games now count in one shared weekly league
 - **2026-10-21** · The first repository was added on GitHub
-- **2026-10-15** · RM-05 · ChessRun live on chessrun.app, leaderboard running on Cloudflare D1
-- **2026-10-12** · RM-04 · Muzzer: Gerber exported, board ordered at PCBWay
-- **2026-10-10** · RM-03 · BlockingFocus firmware 0.3.5, enclosure printed
+- **2026-10-15** · ChessRun · Live on chessrun.app, leaderboard running on Cloudflare D1
+- **2026-10-12** · Muzzer · Gerber exported, board ordered at PCBWay
 
 [Full logbook →](https://remaker.ch/en/#log)
 <!-- /seyir:en -->
