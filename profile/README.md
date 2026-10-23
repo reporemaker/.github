@@ -16,7 +16,7 @@
 ### Logbook
 
 <!-- seyir:en -->
-- **2026-10-23** · ChessRun · The Mihrace mode has been added to ChessRun
+- **2026-10-23** · ChessRun · Maharajah added as a new game
 - **2026-10-22** · ChessRun · All games now count in one shared weekly league
 - **2026-10-21** · The first repository was added on GitHub
 - **2026-10-15** · ChessRun · Live on chessrun.app, leaderboard running on Cloudflare D1
