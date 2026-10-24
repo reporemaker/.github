@@ -25,7 +25,7 @@ Danke für deinen Beitrag. Eine kleine Korrektur ist genauso wertvoll wie eine g
 
 ### Lizenz
 
-Dein Beitrag wird unter der Lizenz des Repositories veröffentlicht, in das er eingeht; maßgeblich ist immer dessen LICENSE-Datei. Unsere Voreinstellung ist Hardware CERN-OHL-S-2.0 und Software GPL-3.0. Ein Projekt kann eine andere offene Lizenz wählen, wenn sein Zweck es verlangt: ChessRun nutzt zum Beispiel AGPL-3.0, damit auch eine gehostete Kopie offen bleibt, und der Skill LifeLine MIT, damit er in jedes Projekt kopiert werden kann. Mit deinem Pull Request stimmst du dem zu und bestätigst, dass der Beitrag von dir stammt oder du ihn teilen darfst.
+Dein Beitrag wird unter der Lizenz des Repositories veröffentlicht, in das er eingeht; massgeblich ist immer dessen LICENSE-Datei. Unsere Voreinstellung ist Hardware CERN-OHL-S-2.0 und Software GPL-3.0. Ein Projekt kann eine andere offene Lizenz wählen, wenn sein Zweck es verlangt: ChessRun nutzt zum Beispiel AGPL-3.0, damit auch eine gehostete Kopie offen bleibt, und der Skill LifeLine MIT, damit er in jedes Projekt kopiert werden kann. Mit deinem Pull Request stimmst du dem zu und bestätigst, dass der Beitrag von dir stammt oder du ihn teilen darfst.
 
 ### Sicherheit
 

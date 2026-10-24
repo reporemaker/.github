@@ -30,7 +30,7 @@ Kein Abschluss nötig, aber ein Fachgebiet, in dem du etwas zeigen kannst: eine 
 
 ### Wo sie gilt
 
-Diese Hausordnung gilt überall, wo RE*maker ist: wo immer wir zusammenkommen, in allen Repositories dieser GitHub-Organisation (Issues, Pull Requests, Kommentare, Diskussionen), per E-Mail und in jeder Korrespondenz im Namen von RE*maker.
+Diese Hausordnung gilt überall, wo RE\*maker ist: wo immer wir zusammenkommen, in allen Repositories dieser GitHub-Organisation (Issues, Pull Requests, Kommentare, Diskussionen), per E-Mail und in jeder Korrespondenz im Namen von RE\*maker.
 
 ### Melden
 
@@ -66,7 +66,7 @@ No degree needed, but a field where you can show something: a board, a program, 
 
 ### Where they apply
 
-These rules apply wherever RE*maker is: wherever we come together, in every repository of this GitHub organisation (issues, pull requests, comments, discussions), by email and in all correspondence on behalf of RE*maker.
+These rules apply wherever RE\*maker is: wherever we come together, in every repository of this GitHub organisation (issues, pull requests, comments, discussions), by email and in all correspondence on behalf of RE\*maker.
 
 ### Reporting
 
@@ -102,7 +102,7 @@ Diploma gerekmez, ama bir şey gösterebileceğin bir alan gerekir: bir kart, bi
 
 ### Nerede geçerli
 
-Bu kurallar RE*maker'ın olduğu her yerde geçerli: bir araya geldiğimiz her yerde, bu GitHub organizasyonunun bütün depolarında (issue, pull request, yorum, tartışma), e-postada ve RE*maker adına yapılan her yazışmada.
+Bu kurallar RE\*maker'ın olduğu her yerde geçerli: bir araya geldiğimiz her yerde, bu GitHub organizasyonunun bütün depolarında (issue, pull request, yorum, tartışma), e-postada ve RE\*maker adına yapılan her yazışmada.
 
 ### Bildirmek
 
