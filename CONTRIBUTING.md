@@ -25,7 +25,7 @@ Danke für deinen Beitrag. Eine kleine Korrektur ist genauso wertvoll wie eine g
 
 ### Lizenz
 
-Dein Beitrag wird unter der Lizenz des jeweiligen Repositories veröffentlicht: Hardware CERN-OHL-S-2.0, Software GPL-3.0. Mit deinem Pull Request stimmst du dem zu und bestätigst, dass der Beitrag von dir stammt oder du ihn teilen darfst.
+Dein Beitrag wird unter der Lizenz des Repositories veröffentlicht, in das er eingeht; maßgeblich ist immer dessen LICENSE-Datei. Unsere Voreinstellung ist Hardware CERN-OHL-S-2.0 und Software GPL-3.0. Ein Projekt kann eine andere offene Lizenz wählen, wenn sein Zweck es verlangt: ChessRun nutzt zum Beispiel AGPL-3.0, damit auch eine gehostete Kopie offen bleibt, und der Skill LifeLine MIT, damit er in jedes Projekt kopiert werden kann. Mit deinem Pull Request stimmst du dem zu und bestätigst, dass der Beitrag von dir stammt oder du ihn teilen darfst.
 
 ### Sicherheit
 
@@ -60,7 +60,7 @@ Thank you for contributing. A small fix is as valuable as a big feature.
 
 ### Licence
 
-Your contribution is published under the licence of the repository: hardware CERN-OHL-S-2.0, software GPL-3.0. By sending a pull request you agree to this and confirm that the contribution is your own or that you have the right to share it.
+Your contribution is published under the licence of the repository it goes into; what applies is always that repository's LICENSE file. Our default is hardware CERN-OHL-S-2.0 and software GPL-3.0. A project can choose another open licence when its purpose calls for it: ChessRun, for example, uses AGPL-3.0 so that a hosted copy stays open too, and the LifeLine skill uses MIT so that it can be copied into any project. By sending a pull request you agree to this and confirm that the contribution is your own or that you have the right to share it.
 
 ### Security
 
@@ -95,7 +95,7 @@ Katkın için teşekkürler. Küçük bir düzeltme de büyük bir özellik kada
 
 ### Lisans
 
-Katkın, deponun lisansıyla yayımlanır: donanım CERN-OHL-S-2.0, yazılım GPL-3.0. Pull request göndererek bunu kabul etmiş ve katkının sana ait olduğunu ya da paylaşma hakkın olduğunu beyan etmiş olursun.
+Katkın, girdiği deponun lisansıyla yayımlanır; geçerli olan her zaman o deponun LICENSE dosyasıdır. Varsayılan tercihimiz donanımda CERN-OHL-S-2.0, yazılımda GPL-3.0. Bir proje, amacı gerektirdiğinde başka bir açık lisans seçebilir: örneğin ChessRun, sunucuda çalışan bir kopyası da açık kalsın diye AGPL-3.0, LifeLine skill'i her projeye kopyalanabilsin diye MIT kullanır. Pull request göndererek bunu kabul etmiş ve katkının sana ait olduğunu ya da paylaşma hakkın olduğunu beyan etmiş olursun.
 
 ### Güvenlik
 

@@ -47,7 +47,7 @@ Vollständig: [Hausordnung](https://github.com/reporemaker/.github/blob/main/COD
 
 ### Lizenz
 
-Alles, was wir selbst entwickeln, ist offen: Hardware **CERN-OHL-S-2.0**, Software **GPL-3.0**.
+Alles, was wir selbst entwickeln, ist offen. Unsere Voreinstellung ist Hardware **CERN-OHL-S-2.0** und Software **GPL-3.0**. Wo der Zweck eines Projekts es verlangt, nutzt es eine andere offene Lizenz; es gilt immer die LICENSE-Datei des jeweiligen Repositories (ChessRun: AGPL-3.0, LifeLine: MIT).
 Kundenarbeit gehört den Kundinnen und Kunden; sie entscheiden über die Lizenz.
 
 ---
@@ -86,7 +86,7 @@ In full: [House rules](https://github.com/reporemaker/.github/blob/main/CODE_OF_
 
 ### Licence
 
-Everything we develop ourselves is open: hardware **CERN-OHL-S-2.0**, software **GPL-3.0**.
+Everything we develop ourselves is open. Our default is hardware **CERN-OHL-S-2.0** and software **GPL-3.0**. Where a project's purpose calls for it, it uses another open licence; what applies is always the LICENSE file of that repository (ChessRun: AGPL-3.0, LifeLine: MIT).
 Client work belongs to the client, who decides the licence.
 
 ---
@@ -125,5 +125,5 @@ Tamamı: [Ev kuralları](https://github.com/reporemaker/.github/blob/main/CODE_O
 
 ### Lisans
 
-Kendi ürettiğimiz her şey açık: donanım **CERN-OHL-S-2.0**, yazılım **GPL-3.0**.
+Kendi ürettiğimiz her şey açık. Varsayılan tercihimiz donanımda **CERN-OHL-S-2.0**, yazılımda **GPL-3.0**. Bir projenin amacı gerektirdiğinde başka bir açık lisans kullanılır; her depoda geçerli olan o deponun LICENSE dosyasıdır (ChessRun: AGPL-3.0, LifeLine: MIT).
 Müşteri için yaptığımız iş müşteriye aittir; lisansına o karar verir.

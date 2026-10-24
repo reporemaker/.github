@@ -13,6 +13,8 @@
 
 #### [ChessRun](https://github.com/reporemaker/ChessRun) → <a href="https://chessrun.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Play%20now-chessrun.app-f5c518?style=for-the-badge&amp;labelColor=0b0e14" alt="▶ Play now: chessrun.app" height="34" align="center"></a>
 
+#### [LifeLine](https://github.com/reporemaker/LifeLine) · Claude Code skill that tracks everything a project depends on from the outside
+
 ### Logbook
 
 <!-- seyir:en -->
