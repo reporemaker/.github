@@ -15,6 +15,8 @@
 
 #### [LifeLine](https://github.com/reporemaker/LifeLine) · Claude Code skill that tracks everything a project depends on from the outside
 
+#### [RE\*start](https://github.com/reporemaker/REstart) · a quiet Android home screen launcher, fork of mLauncher (GPL-3.0)
+
 ### Logbook
 
 <!-- seyir:en -->
