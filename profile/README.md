@@ -20,11 +20,11 @@
 ### Logbook
 
 <!-- seyir:en -->
-- **2026-10-24** · ChessRun · Maharajah got a guide switch (off: no danger marks, double score); pieces now slide
-- **2026-10-24** · LifeLine · Reports split: public part in the repository, open vulnerabilities in a private report for the customer only
-- **2026-10-24** · LifeLine · Released: a Claude Code skill that maps everything a project depends on and watches the code copied into it
-- **2026-10-23** · ChessRun · Maharajah added as a new game
-- **2026-10-22** · ChessRun · All games now count in one shared weekly league
+- **2026-10-25** · RE*start · RE*start launcher is out for Android with its new interface.
+- **2026-10-24** · LifeLine · LifeLine released: a Claude Code skill that maps everything a project depends on from the outside and keeps watching the code copied into it.
+- **2026-10-24** · LifeLine · LifeLine reports are now split: the public part goes into the repository, open vulnerabilities and weak points stay in a private report delivered to the customer only.
+- **2026-10-24** · ChessRun · Maharajah got a guide switch: off, the dangerous squares are not shown and the score doubles. Pieces now slide from square to square.
+- **2026-10-24** · RE*start · The RE*start repository was taken over from SmartKraft.
 
 [Full logbook →](https://remaker.ch/en/#log)
 <!-- /seyir:en -->
