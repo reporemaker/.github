@@ -20,11 +20,11 @@
 ### Logbook
 
 <!-- seyir:en -->
+- **2026-10-26** · RE*start · RE*start 1.2.0 is out: notes and to-dos on the home screen, one swipe per direction, and a circle, square or triangle drawn on the home screen.
+- **2026-10-25** · LifeLine · LifeLine 1.0.5 is out: it now reads the lock files of Android and Gradle projects, and a self-test with 21 checks keeps the fixes from breaking.
 - **2026-10-25** · RE*start · RE*start launcher is out for Android with its new interface.
 - **2026-10-24** · LifeLine · LifeLine released: a Claude Code skill that maps everything a project depends on from the outside and keeps watching the code copied into it.
 - **2026-10-24** · LifeLine · LifeLine reports are now split: the public part goes into the repository, open vulnerabilities and weak points stay in a private report delivered to the customer only.
-- **2026-10-24** · ChessRun · Maharajah got a guide switch: off, the dangerous squares are not shown and the score doubles. Pieces now slide from square to square.
-- **2026-10-24** · RE*start · The RE*start repository was taken over from SmartKraft.
 
 [Full logbook →](https://remaker.ch/en/#log)
 <!-- /seyir:en -->
